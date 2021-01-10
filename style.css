@@ -13,10 +13,10 @@ html {
     box-sizing: inherit;
 }
 body {
-    width: 100%;
+   
     background: #4e54c8;  
     background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);
-    height: 200vh;  
+ 
 
   }
 ul li {
