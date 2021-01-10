@@ -23,30 +23,6 @@ ul li {
     list-style: none;
     
 }  
-
-
-/* colours */
-/*.color-violet {
-    background-color: #a57fd1;
-  }
-  .color-indigo {
-    background-color: #847bda;
-  }
-  .color-blue {
-    background-color: #92bae2;
-  }
-  .color-green {
-    background-color: #aceba6;
-  }
-  .color-yellow {
-    background-color: #b1ac74;
-  }
-  .color-orange {
-    background-color: #c5a07b;
-  }
-  .color-red {
-    background-color: #b98085;
-  }*/  
   
 h2{
    margin: 1rem;
@@ -54,9 +30,7 @@ h2{
 p {
     line-height: 1.4;
 }
-.area {
-    height: 200vh;
-}
+
 
 .circles{
     position: absolute;
@@ -74,8 +48,8 @@ p {
     width: 20px;
     height: 20px;
     background: rgba(255, 255, 255, 0.2);
-    animation: animate 25s linear infinite;
-    bottom: -150px;
+    animation: animate 35s linear infinite;
+    bottom: -550px;
     
 }
 
