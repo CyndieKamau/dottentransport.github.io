@@ -48,8 +48,8 @@ p {
     width: 20px;
     height: 20px;
     background: rgba(255, 255, 255, 0.2);
-    animation: animate 35s linear infinite;
-    bottom: -550px;
+    animation: animate 20s linear infinite;
+    bottom: 0;
     
 }
 
